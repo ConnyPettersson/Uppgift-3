@@ -1,5 +1,5 @@
 function changeText() {
 
-    document.getElementById("helloWorld").textContent = "Goodbye World";
+    document.querySelector("#helloWorld").textContent = "Goodbye World";
 
-}
+}//# ersätter getElementById. const id = document.querySelector(#)
