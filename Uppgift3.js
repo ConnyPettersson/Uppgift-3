@@ -1,5 +1,5 @@
 function changeText() {
 
-    document.querySelector("#helloWorld").textContent = "Goodbye World";
+    const colorBtn = document.querySelector("#helloWorld").textContent = "Goodbye World";
 
 }
